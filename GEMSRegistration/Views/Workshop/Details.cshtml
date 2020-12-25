@@ -1,0 +1,47 @@
+﻿@model GEMSRegistration.Models.Workshop
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h3 align="center">GEMS Registration</h3>
+<h4 align="center">Workshop Details</h4>
+<div class="container">
+    <div>
+        <hr />
+        <br />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.WorkshopName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.WorkshopName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.WorkshopDescription)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.WorkshopDescription)
+            </dd>
+            <dt class="col-sm-2">
+                Facilitator Name
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Facilitator.FName)&nbsp;@Html.DisplayFor(model => model.Facilitator.LName)
+            </dd>
+            <dt class="col-sm-2">
+                Participant Name
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Participant.FName)&nbsp;@Html.DisplayFor(model => model.Participant.LName)
+            </dd>
+            
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model.WorkshopID">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+
+    <div><p align="center">Angelia Bendolph<br />May 7, 2020 </p></div>
+</div>

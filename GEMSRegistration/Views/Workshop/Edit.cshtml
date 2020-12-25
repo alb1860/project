@@ -1,0 +1,50 @@
+﻿@model GEMSRegistration.Models.Workshop
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h3 align="center">GEMS Registration</h3>
+<h4 align="center">Edit A Workshop</h4>
+<div class="container">
+
+    <hr />
+    <br />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="WorkshopID" />
+                <div class="form-group">
+                    <label asp-for="WorkshopName" class="control-label"></label>
+                    <input asp-for="WorkshopName" class="form-control" />
+                    <span asp-validation-for="WorkshopName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="WorkshopDescription" class="control-label"></label>
+                    <input asp-for="WorkshopDescription" class="form-control" />
+                    <span asp-validation-for="WorkshopDescription" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FacilitatorID" class="control-label"></label>
+                    <select asp-for="FacilitatorID" class="form-control" asp-items="ViewBag.FacilitatorID"><option>Select A Facilitator</option></select>
+                    <span asp-validation-for="FacilitatorID" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ParticipantID" class="control-label"></label>
+                    <select asp-for="ParticipantID" class="form-control" asp-items="ViewBag.ParticipantID"><option>Select A Participant</option></select>
+                    <span asp-validation-for="ParticipantID" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+
+    <div><p align="center">Angelia Bendolph<br />May 7, 2020 </p></div>
+</div>

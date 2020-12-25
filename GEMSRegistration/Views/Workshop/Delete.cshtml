@@ -1,0 +1,25 @@
+﻿@model GEMSRegistration.Models.Workshop
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 align="center">GEMS Registration</h3>
+
+<br />
+<h4 align="center">Are you sure you want to delete this?</h4>
+<br />
+<div class="container">
+    <div align="center">
+        <h5> Workshop Name: @Model.WorkshopName</h5>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="WorkshopID" />
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-action="Index">Back to List</a>
+        </form>
+    </div>
+
+    <div><p align="center">Angelia Bendolph<br />May 7, 2020 </p></div>
+</div>

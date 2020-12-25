@@ -1,0 +1,42 @@
+﻿@model IEnumerable<GEMSRegistration.Models.Location>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 align="center">GEMS Registration</h3>
+<h4 align="center">Workshop Location Information</h4>
+<div class="container">
+    <table class="table table-bordered table-condensed table-striped">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.LocationName)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LocationName)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.LocationID">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.LocationID">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.LocationID">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>
+        <a asp-action="Create">Create New Location</a> | <a asp-controller="Home" asp-action="Index">Back to Home Page</a>
+
+    </p>
+    <div><p align="center">Angelia Bendolph<br />May 7, 2020 </p></div>
+
+</div>

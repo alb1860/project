@@ -1,0 +1,120 @@
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.csprojAssemblyReference.cache
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorAssemblyInfo.cache
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorAssemblyInfo.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.AssemblyInfoInputs.cache
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.AssemblyInfo.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\appsettings1.json
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.deps.json
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.runtimeconfig.json
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.runtimeconfig.dev.json
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.dll
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.pdb
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorTargetAssemblyInfo.cache
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.dll
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.pdb
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.TagHelpers.input.cache
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.TagHelpers.output.cache
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorCoreGenerate.cache
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorTargetAssemblyInfo.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.Views.dll
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.Views.pdb
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.Views.pdb
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.csproj.CopyComplete
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Create.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Delete.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Details.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Edit.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Index.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Create.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Delete.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Details.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Edit.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Index.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Delete.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Details.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Edit.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Index.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Create.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Delete.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Details.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Edit.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Index.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Create.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Delete.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Details.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Edit.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Index.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Create.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\DetailsAjax.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\_ParticipantWorkshops.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\DetailsAjax.cshtml.g.cs
+C:\Users\cebco\source\repos\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\_FacilitatorWorkshops.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\appsettings1.json
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.deps.json
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.runtimeconfig.json
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.runtimeconfig.dev.json
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.dll
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.pdb
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.Views.dll
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\bin\Debug\netcoreapp2.2\GEMSRegistration.Views.pdb
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.csprojAssemblyReference.cache
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorAssemblyInfo.cache
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorAssemblyInfo.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.AssemblyInfoInputs.cache
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.AssemblyInfo.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.TagHelpers.input.cache
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.TagHelpers.output.cache
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorCoreGenerate.cache
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Create.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Delete.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Details.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Edit.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Attendee\Index.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Create.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Delete.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Details.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\DetailsAjax.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Edit.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\Index.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Facilitator\_FacilitatorWorkshops.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Create.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Delete.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Details.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Edit.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Location\Index.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Create.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Delete.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Details.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\DetailsAjax.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Edit.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\Index.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Participant\_ParticipantWorkshops.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Create.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Delete.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Details.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Edit.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\Workshop\Index.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorTargetAssemblyInfo.cache
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.RazorTargetAssemblyInfo.cs
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.Views.pdb
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.dll
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.pdb
+C:\Users\cebco\OneDrive\Desktop\Organization\Info Systems Courses\App Dev\Final Exam\GEMSRegistration\GEMSRegistration\obj\Debug\netcoreapp2.2\GEMSRegistration.csproj.CopyComplete

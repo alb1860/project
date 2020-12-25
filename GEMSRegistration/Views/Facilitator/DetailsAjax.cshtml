@@ -1,0 +1,81 @@
+﻿@model GEMSRegistration.Models.Facilitator
+
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script>
+        function GetFacilitatorWorkshops(facilitatorId) {
+            $.ajax({
+                type: "POST",
+                url: "@Url.Action("GetFacilitatorWorkshops","Facilitator")",
+                data: { id : facilitatorId },
+                success: function (_FacilitatorWorkshops)
+                {
+                    $("#pvWorkshopsFac").html(_FacilitatorWorkshops);
+                },
+                error: function ()
+                {
+                    alert("No workshops scheduled" + facilitatorId);
+                }
+            });
+        }
+</script>
+<h3 align="center"> GEMS Registration</h3>
+<h4 align="center">Facilitator Workshop Details</h4>
+<div class="container">
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.FName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.FName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.LName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.LName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Phone)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Phone)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Affiliation)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Affiliation)
+            </dd>
+
+        </dl>
+    </div>
+    <div id="pvWorkshopsFac">
+
+    </div>
+
+    <div>
+        <button class="btn btn-default" onclick="GetFacilitatorWorkshops(@Model.ID)">Show Workshops</button> |
+        <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+
+    </div>
+    <div><p align="center">Angelia Bendolph<br />May 7, 2020 </p></div>
+</div>
+
+
+
+
